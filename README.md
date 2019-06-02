@@ -11,6 +11,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ## Labs
 * [Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/)
 * [Splunk Security Dataset Project](https://live.splunk.com/splunk-security-dataset-project)
+* [SQL Injection](https://zh.sqlzoo.net/hack/)
 
 ## Courses
 * [Cybrary](https://www.cybrary.it/)
