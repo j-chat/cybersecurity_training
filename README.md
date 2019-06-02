@@ -1,5 +1,5 @@
 # cybersecurity_training
-A list of my favorite sites for anyone getting started in Cybersecurity or continuing their education. 
+A list of my favorite sites for anyone getting started in Cybersecurity or continuing their education in the field. 
 
 ## Courses
 * [Cybrary](https://www.cybrary.it/)
