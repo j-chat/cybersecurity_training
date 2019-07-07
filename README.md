@@ -6,10 +6,12 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Splunk](https://www.splunk.com/en_us/training.html)
 
 ## Exercises
+* [Try Hack Me](https://www.tryhackme.com)
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/)
+* [Portswigger Web Security Academy](https://portswigger.net/web-security)
 * [Splunk Security Dataset Project](https://live.splunk.com/splunk-security-dataset-project)
 * [SQLZoo SQL Injection](https://zh.sqlzoo.net/hack/)
-* [Portswigger Web Security Academy](https://portswigger.net/web-security)
+
 
 ## Competitions
 ### Online
