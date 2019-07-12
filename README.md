@@ -15,7 +15,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Competitions
 ### Online
-* [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons. They do host mini challenges in the summer and winter through their twitter. 
+* [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons. They do host mini challenges in the summer and winter through their social media accounts. 
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
 ### In Person
 * [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you. 
