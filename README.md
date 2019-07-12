@@ -8,9 +8,9 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ## Exercises
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): I have only tried the Digital Student Academy. They provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
 * [Portswigger Web Security Academy](https://portswigger.net/web-security): The Web Security Academy provides free and practical web security training. You can use either the browser or Burp Suite to complete the labs.  
-* [Splunk Security Dataset Project](https://live.splunk.com/splunk-security-dataset-project): This project has free guided walkthroughs with sample security datasets to detection suspicious activities. Sign-up is required each time to access this application.
-* [SQLZoo SQL Injection](https://zh.sqlzoo.net/hack/): This site gives SQL statements examples and a safe environment to practice SQL injections.
-* [Try Hack Me](https://www.tryhackme.com): Try Hack Me provides practical cybersecurity training with little setup. An OpenVPN client is required access their virtual machines to complete the tasks in the rooms. 
+* [Splunk Security Dataset Project](https://live.splunk.com/splunk-security-dataset-project): This project has free guided walkthroughs with sample security datasets to detect suspicious activities. Sign-up is required each time to access this application.
+* [SQLZoo SQL Injection](https://zh.sqlzoo.net/hack/): This site gives SQL statement examples and a safe environment to practice various SQL injections.
+* [Try Hack Me](https://www.tryhackme.com): Try Hack Me provides practical cybersecurity training with little setup. An OpenVPN client is required access their virtual machines and complete the tasks in the rooms. 
 
 
 ## Competitions
