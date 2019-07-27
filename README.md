@@ -21,7 +21,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you. 
 
 ## Other
-## Security Domains
+### Security Domains
 * [Domains of Cybersecurity: A Brief Overview | Hacking into Cybersecurity](https://linuxacademy.com/blog/security/domains-of-cybersecurity-a-brief-overview-hacking-into-cybersecurity/)
 * [The Map of Cybersecurity Domains (version 2.0)](https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp)
 ### Threat Hunting
