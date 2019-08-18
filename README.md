@@ -22,16 +22,17 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you. 
 
 ## Other
+### Collection of Resources
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 ### Data Science
 * [6 Steps for Applying Data Science to Security](https://www.darkreading.com/analytics/6-steps-for-applying-data-science-to-security/d/d-id/1331840)
-### General
-* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 ### Machine Learning
 * [How To Create a Malware Detection System with Machine Learning](https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/)
 ### Security Domains
 * [Domains of Cybersecurity: A Brief Overview | Hacking into Cybersecurity](https://linuxacademy.com/blog/security/domains-of-cybersecurity-a-brief-overview-hacking-into-cybersecurity/)
 * [The Map of Cybersecurity Domains (version 2.0)](https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp)
 ### Threat Hunting
+* [7 Simple but Effective Threat Hunting Tips from a Veteran Threat Hunter](https://bricata.com/blog/threat-hunting-tips-cybersecurity/)
 * [Hunting with Splunk: The Basics](https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html)
 * [Spotting the Adversary with Windows Event Log Monitoring (version 2)](https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)
 
