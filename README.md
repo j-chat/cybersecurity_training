@@ -3,7 +3,6 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Courses
 * [Cybrary](https://www.cybrary.it/): Cybrary provides online cyber security and IT training. They provide Continuing Professional Education credits after a course completion. You can also test your knowledge and earn skills certificates. 
-* [ITProTV](https://www.itpro.tv/): ITProTV provides videos to help those studying for an IT certification. 
 * [Splunk](https://www.splunk.com/en_us/training.html): Splunk provides related training for their platform. If possible, have your employer sponsor the classes. 
 
 ## Exercises
