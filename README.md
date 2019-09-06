@@ -18,7 +18,9 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons. They do host mini challenges in the summer and winter through their social media accounts. 
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
 ### In Person
-* [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you. 
+* [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you.
+### Other
+* CMD+CTRL Cyber Range: Security Innovation hosts their CMD+CTRL Cyber Range at various conferences, meetups, or online. Check out their [twitter](https://twitter.com/SecInnovation) or [LinkedIn](https://www.linkedin.com/company/security-innovation/) for upcoming competitions. 
 
 ## Other
 ### Collection of Resources
@@ -27,6 +29,11 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [6 Steps for Applying Data Science to Security](https://www.darkreading.com/analytics/6-steps-for-applying-data-science-to-security/d/d-id/1331840)
 ### Machine Learning
 * [How To Create a Malware Detection System with Machine Learning](https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/)
+### Security Books
+* [Mike Schiffman - Hacker's Challenge](http://index-of.co.uk/Hacking-Coleccion/Hacker's%20Challenge%20-%20Test%20Your%20Incident%20Response%20Skills%20Using%2020%20Scenarios.pdf)
+* [Splunk - THE ESSENTIAL GUIDE TO MACHINE DATA](https://www.singtel.com/content/dam/singtel/business/enterprise%20solutions/cyber-security/run-the-world/Splunk_The-essential-guide-to-machine-data.pdf)
+### Security Datasets
+* [SecRepo.com - Samples of Security Related Data](http://www.secrepo.com/)
 ### Security Domains
 * [Domains of Cybersecurity: A Brief Overview | Hacking into Cybersecurity](https://linuxacademy.com/blog/security/domains-of-cybersecurity-a-brief-overview-hacking-into-cybersecurity/)
 * [The Map of Cybersecurity Domains (version 2.0)](https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp)
