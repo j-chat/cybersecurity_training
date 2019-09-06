@@ -19,7 +19,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
 ### In Person
 * [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you.
-### Other
+### Mixed
 * CMD+CTRL Cyber Range: Security Innovation hosts their CMD+CTRL Cyber Range at various conferences, meetups, or online. Check out their [twitter](https://twitter.com/SecInnovation) or [LinkedIn](https://www.linkedin.com/company/security-innovation/) for upcoming competitions. 
 
 ## Other
