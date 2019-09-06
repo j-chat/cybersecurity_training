@@ -31,7 +31,8 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [How To Create a Malware Detection System with Machine Learning](https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/)
 ### Security Books
 * [Mike Schiffman - Hacker's Challenge](http://index-of.co.uk/Hacking-Coleccion/Hacker's%20Challenge%20-%20Test%20Your%20Incident%20Response%20Skills%20Using%2020%20Scenarios.pdf)
-* [Splunk - THE ESSENTIAL GUIDE TO MACHINE DATA](https://www.singtel.com/content/dam/singtel/business/enterprise%20solutions/cyber-security/run-the-world/Splunk_The-essential-guide-to-machine-data.pdf)
+* [Securonix Special Edition - Security Analytics For Dummies®](https://www.securonix.com/web/wp-content/uploads/2018/08/Security_Analytics_For_Dummies_Securonix_Special_Edition.pdf)
+* [Splunk - The Essential Guide to Machine Data](https://www.singtel.com/content/dam/singtel/business/enterprise%20solutions/cyber-security/run-the-world/Splunk_The-essential-guide-to-machine-data.pdf)
 ### Security Datasets
 * [SecRepo.com - Samples of Security Related Data](http://www.secrepo.com/)
 ### Security Domains
