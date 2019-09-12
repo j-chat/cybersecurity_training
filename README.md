@@ -34,7 +34,11 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Securonix Special Edition - Security Analytics For Dummies®](https://www.securonix.com/web/wp-content/uploads/2018/08/Security_Analytics_For_Dummies_Securonix_Special_Edition.pdf)
 * [Splunk - The Essential Guide to Machine Data](https://www.singtel.com/content/dam/singtel/business/enterprise%20solutions/cyber-security/run-the-world/Splunk_The-essential-guide-to-machine-data.pdf)
 ### Security Datasets
+* [Canadian Institute for Cybersecurity datasets](https://www.unb.ca/cic/datasets/index.html)
+* [Malware-Traffic-Analysis.net - TRAFFIC ANALYSIS EXERCISES](http://malware-traffic-analysis.net/training-exercises.html)
+* [NETRESEC - Publicly available PCAP files](https://www.netresec.com/?page=PcapFiles)
 * [SecRepo.com - Samples of Security Related Data](http://www.secrepo.com/)
+* [Traffic Data from Kyoto University's Honeypots](http://www.takakura.com/Kyoto_data/)
 ### Security Domains
 * [Domains of Cybersecurity: A Brief Overview | Hacking into Cybersecurity](https://linuxacademy.com/blog/security/domains-of-cybersecurity-a-brief-overview-hacking-into-cybersecurity/)
 * [The Map of Cybersecurity Domains (version 2.0)](https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp)
