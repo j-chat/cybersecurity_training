@@ -5,6 +5,12 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Cybrary](https://www.cybrary.it/): Cybrary provides online cyber security and IT training. They provide Continuing Professional Education credits after a course completion. You can also test your knowledge and earn skills certificates. 
 * [Splunk](https://www.splunk.com/en_us/training.html): Splunk provides related training for their platform. If possible, have your employer sponsor the classes. 
 
+## Certification Programs
+* [Comptia Certifications](https://certification.comptia.org/certifications)
+* [eLearnSecurity Certifications](https://www.elearnsecurity.com/certification/)
+* [GIAC Certifications](https://www.giac.org/)
+* [ISC Squared Information Security Certifications](https://www.isc2.org/Certifications)
+
 ## Exercises
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): I have only tried the Digital Student Academy. They provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
 * [Portswigger Web Security Academy](https://portswigger.net/web-security): The Web Security Academy provides free and practical web security training. You can use either the browser or Burp Suite to complete the labs.  
