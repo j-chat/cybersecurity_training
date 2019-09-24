@@ -34,6 +34,8 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 ### Data Science
 * [6 Steps for Applying Data Science to Security](https://www.darkreading.com/analytics/6-steps-for-applying-data-science-to-security/d/d-id/1331840)
+### File Analysis
+* [Analyzing Malicious Documents Cheat Sheet](https://zeltser.com/analyzing-malicious-documents/)
 ### Machine Learning
 * [How To Create a Malware Detection System with Machine Learning](https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/)
 ### Security Books
