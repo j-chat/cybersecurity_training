@@ -57,6 +57,6 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [SANS Hunt Evil Poster](https://digital-forensics.sans.org/media/SANS_Poster_2018_Hunt_Evil_FINAL.pdf)
 * [Spotting the Adversary with Windows Event Log Monitoring (version 2)](https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)
 
-
-
-
+## Honorable Mentions
+* [LMG Network Forensics Puzzle Content](http://forensicscontest.com/puzzles): While the contest is over, pcaps along with submitted tools and answers are available for review. Wireshark is recommended to view pcap files. 
+* [OverTheWire: Wargames](http://overthewire.org/wargames/): Some familarity with Linux is needed to move between the levels in these shell games. An SSH client, like PuTTY, is required to connect to the game. 
