@@ -8,6 +8,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Certification Programs
 * [Comptia Certifications](https://certification.comptia.org/certifications)
+* [EC-Council Certifications](https://www.eccouncil.org/programs/)
 * [eLearnSecurity Certifications](https://www.elearnsecurity.com/certification/)
 * [GIAC Certifications](https://www.giac.org/)
 * [ISC Squared Information Security Certifications](https://www.isc2.org/Certifications)
@@ -22,7 +23,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Competitions
 ### Online
-* [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons. They do host mini challenges in the summer and winter through their social media accounts. 
+* [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons. They do host mini challenges in the summer and winter through their social media accounts. NOTE: you can still participate despite not being a student. 
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
 ### In Person
 * [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you.
@@ -32,6 +33,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ## Other
 ### Collection of Resources
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Ryan Chapman's website](https://incidentresponse.training/)
 ### Data Science
 * [6 Steps for Applying Data Science to Security](https://www.darkreading.com/analytics/6-steps-for-applying-data-science-to-security/d/d-id/1331840)
 ### File Analysis
