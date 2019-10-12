@@ -12,6 +12,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [eLearnSecurity Certifications](https://www.elearnsecurity.com/certification/)
 * [GIAC Certifications](https://www.giac.org/)
 * [ISC Squared Information Security Certifications](https://www.isc2.org/Certifications)
+* [Offensive Security Certifications](https://www.offensive-security.com/information-security-certifications/)
 
 ## Exercises
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): I have only tried the Digital Student Academy. They provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
