@@ -3,7 +3,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Courses
 * [Cybrary](https://www.cybrary.it/): Cybrary provides online cyber security and IT training. They provide Continuing Professional Education credits after a course completion. You can also test your knowledge and earn skills certificates. 
-* [ITPRO.TV](https://www.itpro.tv/): ITPRO.TV provides online training for IT certifications and fundamentals. Keep a lookout for their free weekends, where you can binge watch certain courses for free.
+* [ITPRO.TV](https://www.itpro.tv/): ITPRO.TV provides online training for IT certifications and fundamentals. Keep a lookout for their [free weekends](https://community.spiceworks.com/pages/itprotv), where you can binge watch certain courses for free.
 * [Splunk](https://www.splunk.com/en_us/training.html): Splunk provides related training for their platform. If possible, have your employer sponsor the classes. 
 
 ## Certification Programs
@@ -16,7 +16,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Exercises
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): I have only tried the Digital Student Academy. They provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
-* [Immersive Labs Lite](https://immersivelabs.com/lite/): Immersive Lab Lite contains access to specific labs. It would give you access to their platform if you do qualify for their Digital Cyber Academies.
+* [Immersive Labs Lite](https://immersivelabs.com/lite/): Immersive Lab Lite contains access to specific labs. It would give you access to their platform if you do not qualify for their Digital Cyber Academies.
 * [Portswigger Web Security Academy](https://portswigger.net/web-security): The Web Security Academy provides free and practical web security training. You can use either the browser or Burp Suite to complete the labs.  
 * [Splunk Security Dataset Project](https://live.splunk.com/splunk-security-dataset-project): This project has free guided walkthroughs with sample security datasets to detect suspicious activities. It provides a free environment to practice using Splunk. Sign-up is required each time to access this application.
 * [SQLZoo SQL Injection](https://zh.sqlzoo.net/hack/): This site gives SQL statement examples and a safe environment to practice various SQL injections.
