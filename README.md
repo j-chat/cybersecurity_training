@@ -25,7 +25,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Competitions
 ### Online
-* [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons. They do host mini challenges in the summer and winter through their social media accounts. NOTE: you can still participate despite not being a student. 
+* [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons, which comes at a small cost. They do host mini challenges in the summer and winter through their social media accounts. NOTE: you can still participate despite not being a student. 
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
 ### In Person
 * [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you.
@@ -43,6 +43,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ### Machine Learning
 * [How To Create a Malware Detection System with Machine Learning](https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/)
 ### Security Books
+* [Michael Sikorski and Andrew Honig - Practical Malware Analysis](https://github.com/braveghz/Practical-Malware-Analysis/blob/master/Practical_Malware_Analysis.pdf)
 * [Mike Schiffman - Hacker's Challenge](http://index-of.co.uk/Hacking-Coleccion/Hacker's%20Challenge%20-%20Test%20Your%20Incident%20Response%20Skills%20Using%2020%20Scenarios.pdf)
 * [Securonix Special Edition - Security Analytics For Dummies®](https://www.securonix.com/web/wp-content/uploads/2018/08/Security_Analytics_For_Dummies_Securonix_Special_Edition.pdf)
 * [Splunk - The Essential Guide to Machine Data](https://www.singtel.com/content/dam/singtel/business/enterprise%20solutions/cyber-security/run-the-world/Splunk_The-essential-guide-to-machine-data.pdf)
