@@ -37,6 +37,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ### Collection of Resources
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Ryan Chapman's website](https://incidentresponse.training/)
+* [SANS posters](https://digital-forensics.sans.org/community/posters)
 ### Data Science
 * [6 Steps for Applying Data Science to Security](https://www.darkreading.com/analytics/6-steps-for-applying-data-science-to-security/d/d-id/1331840)
 ### File Analysis
@@ -60,7 +61,6 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ### Threat Hunting
 * [7 Simple but Effective Threat Hunting Tips from a Veteran Threat Hunter](https://bricata.com/blog/threat-hunting-tips-cybersecurity/)
 * [Hunting with Splunk: The Basics](https://www.splunk.com/blog/2017/07/06/hunting-with-splunk-the-basics.html)
-* [SANS Hunt Evil Poster](https://digital-forensics.sans.org/media/SANS_Poster_2018_Hunt_Evil_FINAL.pdf)
 * [Spotting the Adversary with Windows Event Log Monitoring (version 2)](https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)
 
 ## Honorable Mentions
