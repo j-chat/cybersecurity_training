@@ -51,7 +51,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Splunk - The Essential Guide to Machine Data](https://www.singtel.com/content/dam/singtel/business/enterprise%20solutions/cyber-security/run-the-world/Splunk_The-essential-guide-to-machine-data.pdf)
 ### Security Datasets
 * [Canadian Institute for Cybersecurity datasets](https://www.unb.ca/cic/datasets/index.html)
-* [Malware-Traffic-Analysis.net - TRAFFIC ANALYSIS EXERCISES](http://malware-traffic-analysis.net/training-exercises.html)
+* [Malware-Traffic-Analysis.net - TRAFFIC ANALYSIS EXERCISES](http://malware-traffic-analysis.net/training-exercises.html) (password for zip files is on the [about page](http://malware-traffic-analysis.net/about.html))
 * [NETRESEC - Publicly available PCAP files](https://www.netresec.com/?page=PcapFiles)
 * [SecRepo.com - Samples of Security Related Data](http://www.secrepo.com/)
 * [Traffic Data from Kyoto University's Honeypots](http://www.takakura.com/Kyoto_data/)
