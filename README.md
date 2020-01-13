@@ -43,7 +43,8 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ### File Analysis
 * [Analyzing Malicious Documents Cheat Sheet](https://zeltser.com/analyzing-malicious-documents/)
 ### Machine Learning
-* [How To Create a Malware Detection System with Machine Learning](https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/)
+* [evilsocket.net - How To Create a Malware Detection System with Machine Learning](https://www.evilsocket.net/2019/05/22/How-to-create-a-Malware-detection-system-with-Machine-Learning/)
+* [Kaspersky - Machine Learning Methods for Malware Detection](https://media.kaspersky.com/en/enterprise-security/Kaspersky-Lab-Whitepaper-Machine-Learning.pdf)
 ### Security Books
 * [Michael Sikorski and Andrew Honig - Practical Malware Analysis](https://github.com/braveghz/Practical-Malware-Analysis/blob/master/Practical_Malware_Analysis.pdf)
 * [Mike Schiffman - Hacker's Challenge](http://index-of.co.uk/Hacking-Coleccion/Hacker's%20Challenge%20-%20Test%20Your%20Incident%20Response%20Skills%20Using%2020%20Scenarios.pdf)
