@@ -17,6 +17,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ## Exercises
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): I have only tried the Digital Student Academy. They provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
 * [Immersive Labs Lite](https://immersivelabs.com/lite/): Immersive Lab Lite contains access to specific labs. It would give you access to their platform if you do not qualify for their Digital Cyber Academies.
+* [MSCI Online Learning Platform](https://platform.mosse-institute.com/#/): This platform providess 65 free, practical, and hands-on exercises. For most of them, you will submit a YouTube link of the assignment. It seems to only work in Private Browsing. 
 * [Portswigger Web Security Academy](https://portswigger.net/web-security): The Web Security Academy provides free and practical web security training. You can use either the browser or Burp Suite to complete the labs.  
 * [Splunk Security Dataset Project](https://live.splunk.com/splunk-security-dataset-project): This project has free guided walkthroughs with sample security datasets to detect suspicious activities. It provides a free environment to practice using Splunk. Sign-up is required each time to access this application.
 * [SQLZoo SQL Injection](https://zh.sqlzoo.net/hack/): This site gives SQL statement examples and a safe environment to practice various SQL injections.
@@ -38,6 +39,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Ryan Chapman's website](https://incidentresponse.training/)
 * [SANS posters](https://digital-forensics.sans.org/community/posters)
+* [WiCyS Silicon Valley Resources](https://www.wicyssiliconvalley.org/resources}
 ### Data Science
 * [6 Steps for Applying Data Science to Security](https://www.darkreading.com/analytics/6-steps-for-applying-data-science-to-security/d/d-id/1331840)
 ### File Analysis
