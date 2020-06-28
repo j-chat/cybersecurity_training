@@ -19,6 +19,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Immersive Labs Lite](https://immersivelabs.com/lite/): Immersive Lab Lite contains access to specific labs. It would give you access to their platform if you do not qualify for their Digital Cyber Academies.
 * [MSCI Online Learning Platform](https://platform.mosse-institute.com/#/): This platform providess 65 free, practical, and hands-on exercises. For most of them, you will submit a YouTube link of the assignment. It seems to only work in Private Browsing. 
 * [Portswigger Web Security Academy](https://portswigger.net/web-security): The Web Security Academy provides free and practical web security training. You can use either the browser or Burp Suite to complete the labs.  
+* [Secure Code Warrior](https://securecodewarrior.com/): Secure Code Warrior is an online secure coding platform where users identify vulnerabilites in code through challenge. You can play the demo [here](https://portal.securecodewarrior.com/#/website-trial/web/injection/sql/c_sharp/web_forms) and register for a free trial.  
 * [Splunk Security Dataset Project](https://live.splunk.com/splunk-security-dataset-project): This project has free guided walkthroughs with sample security datasets to detect suspicious activities. It provides a free environment to practice using Splunk. Sign-up is required each time to access this application.
 * [SQLZoo SQL Injection](https://zh.sqlzoo.net/hack/): This site gives SQL statement examples and a safe environment to practice various SQL injections.
 * [Try Hack Me](https://www.tryhackme.com): Try Hack Me provides practical cybersecurity training with little setup. An OpenVPN client is required to access their virtual machines and complete the tasks in the rooms. 
@@ -27,6 +28,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ## Competitions
 ### Online
 * [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons, which comes at a small cost. They do host mini challenges in the summer and winter through their social media accounts. NOTE: you can still participate despite not being a student. 
+* Secure Code Warrior Tournaments: Secure Code Warrior hosts various tournaments online. Some could be found on their [twitter](https://twitter.com/SecCodeWarrior) or searching the web. 
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
 ### In Person
 * [Splunk Boss of the SOC](https://www.splunk.com/en_us/about-us/events/bots.html): Splunk hosts this one day event across the world, but at specific times of the year. Keep checking the link for a location close by you.
@@ -67,5 +69,6 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Spotting the Adversary with Windows Event Log Monitoring (version 2)](https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)
 
 ## Honorable Mentions
+* [IBM Cybersecurity Ops: Terminal](https://www.ibm.com/security/digital-assets/cybersecurity-ops/terminal/): IBM Security created a cyber breach game experience that you can play from your browser. 
 * [LMG Network Forensics Puzzle Content](http://forensicscontest.com/puzzles): While the contest is over, pcaps along with submitted tools and answers are available for review. Wireshark is recommended to view pcap files. 
 * [OverTheWire: Wargames](http://overthewire.org/wargames/): Some familarity with Linux is needed to move between the levels in these shell games. An SSH client, like PuTTY, is required to connect to the game. 
