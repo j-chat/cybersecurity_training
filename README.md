@@ -13,6 +13,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [GIAC Certifications](https://www.giac.org/)
 * [ISC Squared Information Security Certifications](https://www.isc2.org/Certifications)
 * [Offensive Security Certifications](https://www.offensive-security.com/information-security-certifications/)
+* [Security Blue Team Certifications](https://securityblue.team/)
 
 ## Exercises
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): I have only tried the Digital Student Academy. They provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
@@ -41,7 +42,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Ryan Chapman's website](https://incidentresponse.training/)
 * [SANS posters](https://digital-forensics.sans.org/community/posters)
-* [WiCyS Silicon Valley Resources](https://www.wicyssiliconvalley.org/resources}
+* [WiCyS Silicon Valley Resources](https://www.wicyssiliconvalley.org/resources)
 ### Data Science
 * [6 Steps for Applying Data Science to Security](https://www.darkreading.com/analytics/6-steps-for-applying-data-science-to-security/d/d-id/1331840)
 ### File Analysis
