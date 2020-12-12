@@ -17,9 +17,10 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Exercises
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): I have only tried the Digital Student Academy. They provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
-* [Immersive Labs Lite](https://immersivelabs.com/lite/): Immersive Lab Lite contains access to specific labs. It would give you access to their platform if you do not qualify for their Digital Cyber Academies.
+* [Immersive Labs Community](https://www.immersivelabs.com/resources/blog/test-your-cyber-mettle-for-free-immersive-labs-community-is-now-in-public-beta/): Immersive Community is a smorgasbord of handpicked interactive labs covering offensive and defensive security. The link provides the code needed for registration.
 * [MSCI Online Learning Platform](https://platform.mosse-institute.com/#/): This platform providess 65 free, practical, and hands-on exercises. For most of them, you will submit a YouTube link of the assignment. It seems to only work in Private Browsing. 
-* [Portswigger Web Security Academy](https://portswigger.net/web-security): The Web Security Academy provides free and practical web security training. You can use either the browser or Burp Suite to complete the labs.  
+* [Portswigger Web Security Academy](https://portswigger.net/web-security): The Web Security Academy provides free and practical web security training. You can use either the browser or Burp Suite to complete the labs. 
+* [RangeForce Community Edition](https://go.rangeforce.com/free-cyber-security-training-community-edition): The RangeForce Community Edition platform provides free 20 core cybersecurity modules, including Docker, Kubernetes, Microsoft, and Splunk.
 * [Secure Code Warrior](https://securecodewarrior.com/): Secure Code Warrior is an online secure coding platform where users identify vulnerabilites in code through challenge. You can play the demo [here](https://portal.securecodewarrior.com/#/website-trial/web/injection/sql/c_sharp/web_forms) and register for a free trial.  
 * [Splunk Security Dataset Project](https://live.splunk.com/splunk-security-dataset-project): This project has free guided walkthroughs with sample security datasets to detect suspicious activities. It provides a free environment to practice using Splunk. Sign-up is required each time to access this application.
 * [SQLZoo SQL Injection](https://zh.sqlzoo.net/hack/): This site gives SQL statement examples and a safe environment to practice various SQL injections.
@@ -29,6 +30,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ## Competitions
 ### Online
 * [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons, which comes at a small cost. They do host mini challenges in the summer and winter through their social media accounts. NOTE: you can still participate despite not being a student. 
+* TryHackMe Advent of Cyber: Learn the basics of Cyber Security by completing beginner-level exercises from December 1st to 25th.
 * Secure Code Warrior Tournaments: Secure Code Warrior hosts various tournaments online. Some could be found on their [twitter](https://twitter.com/SecCodeWarrior) or searching the web. 
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
 ### In Person
