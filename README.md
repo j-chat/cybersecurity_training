@@ -18,7 +18,8 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Security Blue Team Certifications](https://securityblue.team/)
 
 ## Exercises
-* [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): I have only tried the Digital Student Academy. They provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
+* [CyberDefenders](https://cyberdefenders.org/labs/?type=ctf): CyberDefenders has downloadable Blue Team challenges where points are given for correct answers. 
+* [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): Immersive Labs provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
 * [Immersive Labs Community](https://www.immersivelabs.com/resources/blog/test-your-cyber-mettle-for-free-immersive-labs-community-is-now-in-public-beta/): Immersive Community is a smorgasbord of handpicked interactive labs covering offensive and defensive security. The link provides the code needed for registration.
 * [MSCI Online Learning Platform](https://platform.mosse-institute.com/#/): This platform providess 65 free, practical, and hands-on exercises. For most of them, you will submit a YouTube link of the assignment. It seems to only work in Private Browsing. 
 * [Portswigger Web Security Academy](https://portswigger.net/web-security): The Web Security Academy provides free and practical web security training. You can use either the browser or Burp Suite to complete the labs. 
@@ -44,6 +45,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ## Other
 ### Collection of Resources
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [DFIR DIVA](https://dfirdiva.com/)
 * [Ryan Chapman's website](https://incidentresponse.training/)
 * [SANS posters](https://digital-forensics.sans.org/community/posters)
 * [WiCyS Silicon Valley Resources](https://www.wicyssiliconvalley.org/resources)
