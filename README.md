@@ -7,6 +7,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Splunk](https://www.splunk.com/en_us/training.html): Splunk provides related training for their platform. If possible, have your employer sponsor the classes. 
 
 ## Certification Programs
+* [Cloud Security Alliance](https://cloudsecurityalliance.org/education/)
 * [Comptia Certifications](https://certification.comptia.org/certifications)
 * [EC-Council Certifications](https://www.eccouncil.org/programs/)
 * [eLearnSecurity Certifications](https://www.elearnsecurity.com/certification/)
