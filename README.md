@@ -2,8 +2,10 @@
 A list of my favorite sites for anyone getting started in Cybersecurity or continuing their education in the field. This resource is meant to provide both practical and (mostly) affordable training. 
 
 ## Courses
+* [A Cloud Guru](https://acloudguru.com/browse-training?type=course): There are some free courses related to cloud and cloud security. 
 * [Cybrary](https://www.cybrary.it/): Cybrary provides online cyber security and IT training. They provide Continuing Professional Education credits after a course completion. You can also test your knowledge and earn skills certificates. 
 * [ITPRO.TV](https://www.itpro.tv/): ITPRO.TV provides online training for IT certifications and fundamentals. Keep a lookout for their [free weekends](https://community.spiceworks.com/pages/itprotv), where you can binge watch certain courses for free.
+* SANS: Earn CEUs for attending live [webcasts](https://www.sans.org/webcasts/) or [summits](https://www.sans.org/cyber-security-training-events/?training-formats&event-types=summit&location=apac,emea,na&msc=nalt-hp) hosted by SANS.
 * [Splunk](https://www.splunk.com/en_us/training.html): Splunk provides related training for their platform. If possible, have your employer sponsor the classes. 
 
 ## Certification Programs
