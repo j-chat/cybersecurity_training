@@ -38,10 +38,10 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Hack The Box](https://ctf.hackthebox.com/): Search for upcoming or ongoing CTFs.
 * [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons, which comes at a small cost. They do host mini challenges in the summer and winter through their social media accounts. NOTE: you can still participate despite not being a student. 
 * [picoCTF](https://www.picoctf.org/): picoCTF is a free computer security education program with original content built on a capture-the-flag framework created by security and privacy experts at Carnegie Mellon University.
-* TryHackMe Advent of Cyber: Learn the basics of Cyber Security by completing beginner-level exercises from December 1st to 25th.
-* Secure Code Warrior Tournaments: Secure Code Warrior hosts various tournaments online. Some could be found on their [twitter](https://twitter.com/SecCodeWarrior) or searching the web. 
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
-### In Person
+* Secure Code Warrior Tournaments: Secure Code Warrior hosts various tournaments online. Some could be found on their [twitter](https://twitter.com/SecCodeWarrior) or searching the web. 
+* [Tenable CTF](https://tenable.ctfd.io/login): Challenges include Web App, Reverse Engineering, Crypto, Stego, Forensics, Tenable, and more.
+* TryHackMe Advent of Cyber: Learn the basics of Cyber Security by completing beginner-level exercises from December 1st to 25th.
 ### Mixed
 * CMD+CTRL Cyber Range: Security Innovation hosts their CMD+CTRL Cyber Range at various conferences, meetups, or online. Check out their [twitter](https://twitter.com/SecInnovation) or [LinkedIn](https://www.linkedin.com/company/security-innovation/) for upcoming competitions. 
 * Immersive Labs: Immersive Labs have competitions at various conferences or online. Check out their [twitter](https://twitter.com/immersivelabsuk) or [LinkedIn](https://www.linkedin.com/company/immersive-labs-limited/) for upcoming challenges. 
