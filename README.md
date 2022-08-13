@@ -20,7 +20,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 
 ## Exercises
 * [CyberDefenders](https://cyberdefenders.org/labs/?type=ctf): CyberDefenders has downloadable Blue Team challenges where points are given for correct answers. 
-* [CytoHack](https://cryptohack.org/): Learn about modern cryptography by solving a series of interactive puzzles and challenges.
+* [CryptoHack](https://cryptohack.org/): Learn about modern cryptography by solving a series of interactive puzzles and challenges.
 * [Immersive Labs Digital Cyber Academies](https://www.immersivelabs.com/digital-cyber-academies/): Immersive Labs provide a platform to upskill in cyber security and IT, and testing your response through simulated threats and senarios. There are no required setup and their virtual machines are easily accessible by a browser. Remember to extend the time if needed. 
 * [Immersive Labs Community](https://www.immersivelabs.com/resources/blog/test-your-cyber-mettle-for-free-immersive-labs-community-is-now-in-public-beta/): Immersive Community is a smorgasbord of handpicked interactive labs covering offensive and defensive security. The link provides the code needed for registration.
 * [MSCI Online Learning Platform](https://platform.mosse-institute.com/#/): This platform providess 65 free, practical, and hands-on exercises. For most of them, you will submit a YouTube link of the assignment. It seems to only work in Private Browsing. 
