@@ -21,6 +21,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Security Blue Team Certifications](https://securityblue.team/)
 
 ## Exercises
+* [Blue Team Labs Online](https://blueteamlabs.online/): BTLO has free and paid investigations and challenges for cyber defenders. 
 * [CyberDefenders](https://cyberdefenders.org/labs/?type=ctf): CyberDefenders has downloadable Blue Team challenges where points are given for correct answers. 
 * [CryptoHack](https://cryptohack.org/): Learn about modern cryptography by solving a series of interactive puzzles and challenges.
 * [Hack The Box](https://www.hackthebox.com/): Hack The Box is a massive, online cybersecurity training platform.
