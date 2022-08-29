@@ -21,7 +21,6 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Security Blue Team Certifications](https://securityblue.team/)
 
 ## Exercises
-* [Blue Team Labs Online](https://blueteamlabs.online/): BTLO has free and paid investigations and challenges for cyber defenders. 
 * [CyberDefenders](https://cyberdefenders.org/labs/?type=ctf): CyberDefenders has downloadable Blue Team challenges where points are given for correct answers. 
 * [CryptoHack](https://cryptohack.org/): Learn about modern cryptography by solving a series of interactive puzzles and challenges.
 * [Hack The Box](https://www.hackthebox.com/): Hack The Box is a massive, online cybersecurity training platform.
@@ -86,6 +85,8 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Spotting the Adversary with Windows Event Log Monitoring (version 2)](https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)
 
 ## Honorable Mentions
+* [Blue Team Labs Online](https://blueteamlabs.online/): BTLO has free and paid investigations and challenges for cyber defenders. 
+* [Command Challenge](https://cmdchallenge.com/): Practice your command line knowledge through online challenges.  
 * [IBM Cybersecurity Ops: Terminal](https://www.ibm.com/security/digital-assets/cybersecurity-ops/terminal/): IBM Security created a cyber breach game experience that you can play from your browser. 
 * [LMG Network Forensics Puzzle Content](http://forensicscontest.com/puzzles): While the contest is over, pcaps along with submitted tools and answers are available for review. Wireshark is recommended to view pcap files. 
 * [OverTheWire: Wargames](http://overthewire.org/wargames/): Some familarity with Linux is needed to move between the levels in these shell games. An SSH client, like PuTTY, is required to connect to the game. 
