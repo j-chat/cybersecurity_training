@@ -42,6 +42,7 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Hacker101 CTF](https://ctf.hacker101.com/about): CTF hosted by HackerOne
 * [Hack The Box](https://ctf.hackthebox.com/): Search for upcoming or ongoing CTFs.
 * [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons, which comes at a small cost. They do host mini challenges in the summer and winter through their social media accounts. NOTE: you can still participate despite not being a student. 
+* [OSINT Skills Lab Challenge CTF](https://sites.google.com/covered6.com/osint-ctf): 3 sets of challenages using open source intelligence.
 * [picoCTF](https://www.picoctf.org/): picoCTF is a free computer security education program with original content built on a capture-the-flag framework created by security and privacy experts at Carnegie Mellon University.
 * [SANS Holiday Hack Challenge](https://www.holidayhackchallenge.com/past-challenges/): SANS hosts their Holiday Hack Challenge from December to January. 
 * Secure Code Warrior Tournaments: Secure Code Warrior hosts various tournaments online. Some could be found on their [twitter](https://twitter.com/SecCodeWarrior) or searching the web. 
