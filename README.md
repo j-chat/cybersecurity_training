@@ -37,8 +37,9 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [Try Hack Me](https://www.tryhackme.com): Try Hack Me provides practical cybersecurity training with little setup. An OpenVPN client is required to access their virtual machines and complete the tasks in the rooms. 
 
 
-## Competitions
+## Capture the Flag
 ### Online
+* [CTF sites](https://ctfsites.github.io/)
 * [Hacker101 CTF](https://ctf.hacker101.com/about): CTF hosted by HackerOne
 * [Hack The Box](https://ctf.hackthebox.com/): Search for upcoming or ongoing CTFs.
 * [National Cyber League](https://www.nationalcyberleague.org): The National Cyber League hosts their main challenges on cyberskyline.com during the Fall and Spring Seasons, which comes at a small cost. They do host mini challenges in the summer and winter through their social media accounts. NOTE: you can still participate despite not being a student. 
