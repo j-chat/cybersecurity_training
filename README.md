@@ -4,8 +4,10 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 ## Courses
 * [A Cloud Guru](https://acloudguru.com/browse-training?type=course): There are some free courses related to cloud and cloud security.
 * [APIsec University](https://www.apisecuniversity.com/): Free API Security training
+* [AWS Skillbuilder](https://skillbuilder.aws/search?trainingCategory=66&page=1&price=free): Catalog of Digital training for Amazon Web Service
 * [Cybrary](https://www.cybrary.it/): Cybrary provides online cyber security and IT training. They provide Continuing Professional Education credits after a course completion. You can also test your knowledge and earn skills certificates. 
 * [ITPRO.TV](https://www.itpro.tv/): ITPRO.TV provides online training for IT certifications and fundamentals. Keep a lookout for their [free weekends](https://community.spiceworks.com/pages/itprotv), where you can binge watch certain courses for free.
+* [Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/): Catalog of training of fundamental concepts and Microsoft products.
 * SANS: Earn CEUs for attending live [webcasts](https://www.sans.org/webcasts/) or [summits](https://www.sans.org/cyber-security-training-events/?training-formats&event-types=summit&location=apac,emea,na&msc=nalt-hp) hosted by SANS.
 * [Splunk](https://www.splunk.com/en_us/training.html): Splunk provides related training for their platform. 
 * [The Linux Foundation](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course): The Linux Foundation has a repository of courses, webinars, tutorials, and publications in many areas of Information Technology
