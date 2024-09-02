@@ -99,4 +99,5 @@ A list of my favorite sites for anyone getting started in Cybersecurity or conti
 * [IBM Cybersecurity Ops: Terminal](https://www.ibm.com/security/digital-assets/cybersecurity-ops/terminal/): IBM Security created a cyber breach game experience that you can play from your browser. 
 * [LMG Network Forensics Puzzle Content](http://forensicscontest.com/puzzles): While the contest is over, pcaps along with submitted tools and answers are available for review. Wireshark is recommended to view pcap files. 
 * [OverTheWire: Wargames](http://overthewire.org/wargames/): Learn and practice security concepts through wargames. An SSH client, like PuTTY, is required to connect to the game.
+* [Pentester Lab](https://pentesterlab.com/): Labs, courses, and videos in web hacking and secure code review.
 * [UnderTheWine: Wargames](https://underthewire.tech/wargames): Learn Windows Powershell through wargames. An SSH client, like PuTTY, is required to connect to the game.
